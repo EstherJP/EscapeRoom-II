@@ -49,7 +49,7 @@ Adicionalmente, se han implementado diferentes mecánicas impartidas en clase m�
 ## Gifs de la ejecución
 
 - Menu (controles e info):
-
+  [![Image from Gyazo](https://i.gyazo.com/efaa47dc4b6dcec747236ebc7500efd0.gif)](https://gyazo.com/efaa47dc4b6dcec747236ebc7500efd0)
 
 - Introducción:
 
@@ -72,7 +72,7 @@ Adicionalmente, se han implementado diferentes mecánicas impartidas en clase m�
 - Final del laberinto, se apaga la linterna y bajan las puertas:
 
 
-- Introducción de números del candado, clave errónea:
+- Introducción de números del candado:
 
 
 - Cambios de escenas suaves:
@@ -107,16 +107,33 @@ Adicionalmente, se han implementado diferentes mecánicas impartidas en clase m�
     - Menú
 
   - Muebles en blender:
-    - Armario pequeño
-    - Piezas corazón
-    - Candado
-    - Espejo con sábana
-    - Sofá con sábana
-    - Lámparas
-    - Cama con sábana
-    - Escritorio grande con sábada
-    - Escritorio con sábana
-  
+    - Armario pequeño:
+    ![armario pequeño](imgs/armarioPequeño.jpeg)
+    - Piezas corazón:
+    ![piezas corazon](imgs/corazon.jpeg)
+    - Candado:
+    ![candado](imgs/candado.jpeg)
+    - Espejo con sábana:
+    ![espejo](imgs/espejo.jpeg)
+    - Sofá grande con sábana:
+    ![sofa grande](imgs/sofaGrande.jpeg)
+    - Sofá pequeño con sábana:
+    ![sofa pequeño](imgs/sofaPequeño.jpeg)
+    - Lámpara:
+    ![lampara](imgs/lampara.jpeg)
+    - Cama con sábana:
+    ![cama](imgs/cama.jpeg)
+    - Escritorio:
+    ![escritorio](imgs/escritorio.jpeg)
+    - Escalones:
+    ![escalon](imgs/escalones.jpeg)
+    - Brújula:
+    ![brujula](imgs/brujula.jpeg)
+    - Puerta doble:
+    ![puerta grande](imgs/puertaDoble.jpeg)
+    - Puerta:
+    ![puerta](imgs/puerta.jpeg)
+
   - Animaciones:
     - Abrir candado
     - Abrir armario pequeño
@@ -132,6 +149,8 @@ Adicionalmente, se han implementado diferentes mecánicas impartidas en clase m�
     - Esconder paredes laberinto
     - Controlar menú
     - Cambios de escena 
+    - Luces de las lámparas con el interruptor
+    - Abrir candado
 
   - Assets usados:
     - PlantsPackage (decoración)
