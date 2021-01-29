@@ -50,8 +50,8 @@ Adicionalmente, se han implementado diferentes mecánicas impartidas en clase m�
 
 - Menu (controles e info):
 
+  ![alt_text](https://i.gyazo.com/efaa47dc4b6dcec747236ebc7500efd0.gif)
   [![Image from Gyazo](https://i.gyazo.com/efaa47dc4b6dcec747236ebc7500efd0.gif)](https://gyazo.com/efaa47dc4b6dcec747236ebc7500efd0)
-
 - Introducción:
 
 [![Image from Gyazo](https://i.gyazo.com/712410bcced76537206775838d247209.gif)](https://gyazo.com/712410bcced76537206775838d247209)
