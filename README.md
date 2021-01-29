@@ -50,28 +50,35 @@ Adicionalmente, se han implementado diferentes mecánicas impartidas en clase m�
 
 - Menu (controles e info):
 
-  [![Image from Gyazo](imgs/menu.gif)](imgs/menu.gif)
+  [![menu](https://i.gyazo.com/efaa47dc4b6dcec747236ebc7500efd0.gif)](https://gyazo.com/efaa47dc4b6dcec747236ebc7500efd0)
 
 - Introducción:
 
+[![Image from Gyazo](https://i.gyazo.com/712410bcced76537206775838d247209.gif)](https://gyazo.com/712410bcced76537206775838d247209)
 
 - Moverse por la habitación y subir las escaleras:
 
+[![mover](https://i.gyazo.com/eab064a74e966cc937756f36c48f4e1e.gif)](https://gyazo.com/eab064a74e966cc937756f36c48f4e1e)
 
 - Caída del cuadro y puzzle deslizante:
 
+[![pica](https://i.gyazo.com/cd49840ed353bfc309c556bc9625b56d.gif)](https://gyazo.com/cd49840ed353bfc309c556bc9625b56d)
 
 - Coger pieza corazón dentro del armario:
 
+[![corazon](https://i.gyazo.com/a43fbd550cde3406450b0dc1c460b964.gif)](https://gyazo.com/a43fbd550cde3406450b0dc1c460b964)
 
 - Abrir el laberinto:
 
+[![Image from Gyazo](https://i.gyazo.com/d3854b6ae0bbe459c11a5e32d9b647c9.gif)](https://gyazo.com/d3854b6ae0bbe459c11a5e32d9b647c9)
  
 - Puertas levadizas del laberinto:
 
+[![Image from Gyazo](https://i.gyazo.com/d6df12f1d8791ba8c93457d5f03e68a0.gif)](https://gyazo.com/d6df12f1d8791ba8c93457d5f03e68a0)
 
 - Final del laberinto, se apaga la linterna y bajan las puertas:
 
+[![Image from Gyazo](https://i.gyazo.com/20ff058afcfc9a6a384d2f893ef64da0.gif)](https://gyazo.com/20ff058afcfc9a6a384d2f893ef64da0)
 
 - Introducción de números del candado:
 
