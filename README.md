@@ -58,45 +58,52 @@ Adicionalmente, se han implementado diferentes mecánicas impartidas en clase m�
 
 - Moverse por la habitación y subir las escaleras:
 
-[![mover](https://i.gyazo.com/eab064a74e966cc937756f36c48f4e1e.gif)](https://gyazo.com/eab064a74e966cc937756f36c48f4e1e)
+  ![alt_text](https://github.com/EstherJP/ScapeRoom-II/blob/main/gifs/moverse.gif)
 
 - Caída del cuadro y puzzle deslizante:
 
-[![pica](https://i.gyazo.com/cd49840ed353bfc309c556bc9625b56d.gif)](https://gyazo.com/cd49840ed353bfc309c556bc9625b56d)
+  ![alt_text](https://github.com/EstherJP/ScapeRoom-II/blob/main/gifs/cuadroPuzzle.gif)
 
 - Coger pieza corazón dentro del armario:
 
-[![corazon](https://i.gyazo.com/a43fbd550cde3406450b0dc1c460b964.gif)](https://gyazo.com/a43fbd550cde3406450b0dc1c460b964)
+  ![alt_text](https://github.com/EstherJP/ScapeRoom-II/blob/main/gifs/corazonArmario.gif)
 
 - Abrir el laberinto:
 
-[![Image from Gyazo](https://i.gyazo.com/d3854b6ae0bbe459c11a5e32d9b647c9.gif)](https://gyazo.com/d3854b6ae0bbe459c11a5e32d9b647c9)
+  ![alt_text](https://github.com/EstherJP/ScapeRoom-II/blob/main/gifs/puertaSecreta.gif)
  
 - Puertas levadizas del laberinto:
 
-[![Image from Gyazo](https://i.gyazo.com/d6df12f1d8791ba8c93457d5f03e68a0.gif)](https://gyazo.com/d6df12f1d8791ba8c93457d5f03e68a0)
+  ![alt_text](https://github.com/EstherJP/ScapeRoom-II/blob/main/gifs/puertaLevadiza.gif)
 
 - Final del laberinto, se apaga la linterna y bajan las puertas:
 
-[![Image from Gyazo](https://i.gyazo.com/20ff058afcfc9a6a384d2f893ef64da0.gif)](https://gyazo.com/20ff058afcfc9a6a384d2f893ef64da0)
+  ![alt_text](https://github.com/EstherJP/ScapeRoom-II/blob/main/gifs/finalLaberinto.gif)
 
 - Introducción de números del candado:
+
+  ![alt_text](https://github.com/EstherJP/ScapeRoom-II/blob/main/gifs/candado.gif)
 
 
 - Cambios de escenas suaves:
 
+  ![alt_text](https://github.com/EstherJP/ScapeRoom-II/blob/main/gifs/cambioEscena.gif)
 
 - Luces habitación de arriba (delegados):
 
+  ![alt_text](https://github.com/EstherJP/ScapeRoom-II/blob/main/gifs/luces.gif)
 
 - Obtención y movimiento de la brújula:
 
+  ![alt_text](https://github.com/EstherJP/ScapeRoom-II/blob/main/gifs/brujula.gif)
 
 - Segunda habitación puzzle:
 
+  ![alt_text](https://github.com/EstherJP/ScapeRoom-II/blob/main/gifs/acertijo.gif)
 
 - Escena final:
 
+  ![alt_text](https://github.com/EstherJP/ScapeRoom-II/blob/main/gifs/final.gif)
 
 ## Acta de acuerdos
 ### Reparto de tareas  
