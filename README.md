@@ -49,6 +49,7 @@ Adicionalmente, se han implementado diferentes mecánicas impartidas en clase m�
 ## Gifs de la ejecución
 
 - Menu (controles e info):
+
   [![Image from Gyazo](https://i.gyazo.com/efaa47dc4b6dcec747236ebc7500efd0.gif)](https://gyazo.com/efaa47dc4b6dcec747236ebc7500efd0)
 
 - Introducción:
