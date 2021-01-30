@@ -1,4 +1,4 @@
-# Scape Room 
+# Escape Room 
 
 Eduardo Díaz Hernández
 
@@ -28,7 +28,7 @@ Para el uso del programa, es importante disponer de un mando que disponga de un 
 
 La interacción con el juego se realizará haciendo uso de la retícula y los botones del mando para interactuar con los objetos del entorno. Es importante destacar que, cuando un objeto es interactivo se indica con la retícula, es decir, cuando el jugador mira a un objeto interactivo la retícula se expande para indicar la funcionalidad. 
 
-La interacción se detecta mediante el uso de *RayCast*, permitiéndonos detectar si el usuario está mirando a dicho objeto. En esta situación, si se pulsa el botón *A* se activa la respectiva acción que tiene que ver con dicho objeto de forma automática.
+La interacción se detecta mediante el uso de *RayCast*, permitiéndonos detectar si el usuario está mirando a dicho objeto. En esta situación, si se pulsa el botón correspondiente al de aceptar se activa la respectiva acción que tiene que ver con dicho objeto de forma automática.
 
 Adicionalmente, por comodidad de desarrollo el juego también admite como controles el teclado y ratón. Esto es principalmente para que posible interactuar con el juego mediante la interfaz de *unity* desde el ordenador.
 
