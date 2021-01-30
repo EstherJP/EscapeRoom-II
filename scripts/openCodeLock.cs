@@ -50,9 +50,7 @@ public class openCodeLock : MonoBehaviour {
                 if (correctCodeString.Length == 4) {
                     if (correctCodeString == "7883") {
                         openAnim.Play();
-                        Debug.Log("HAS SALIDA");
                     } else {
-                        Debug.Log("Prueba otra vez bro");
                         correctCodeString = "";
                     }
                 }
