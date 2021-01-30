@@ -48,7 +48,7 @@ public class openCodeLock : MonoBehaviour {
 
                 // Comprobamos que la cadena introducida sea correcta
                 if (correctCodeString.Length == 4) {
-                    if (correctCodeString == "7348") {
+                    if (correctCodeString == "7883") {
                         openAnim.Play();
                         Debug.Log("HAS SALIDA");
                     } else {
