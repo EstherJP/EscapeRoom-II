@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-// Clase que implementa el manejo del puzzle deslizant 
+// Clase que implementa el manejo del puzzle deslizante 
 public class PuzzleMovePieces : MonoBehaviour {
     RaycastHit hit;
     Transform tf;

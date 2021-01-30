@@ -2,14 +2,16 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-// Clase que enciende todas las luces al pulsar el interruptor
+// Clase que enciende todas las luces al pulsar el interruptor general
 public class turnAllLights : MonoBehaviour {
+    // Cosas de la retícula
     RaycastHit hit;
     Transform tf;
     private GameObject player;
+    private bool lightsOff;
+    // Delegado y evento delegado
     public delegate void delegateMethod();
     public event delegateMethod TurnOnLights;
-    private bool lightsOff;
 
 
     void Start() { 

@@ -2,16 +2,22 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-// Clase que permite cambiar los colores de las luces al usar el interruptro
+// Clase que permite cambiar los colores de las luces al usar el interruptor individual
+// y cuando el código de las cuatro lámpara esté correcto se delega al script encargada
+// de abrir la puerta
 public class ChangeColorLight : MonoBehaviour {
+    // Luces
     public Light northLight;
     public Light eastLight;
     public Light westLight;
     public Light southLight;
+    // String de colores e indice
     private string[] colors;
     private int[] indexes;
+    // Cosas para la retícula
     RaycastHit hit;
     Transform tf;
+    // Delegado y evento del delegado
     public delegate void delegateMethod();
     public event delegateMethod doorEvent;
 
@@ -23,8 +29,8 @@ public class ChangeColorLight : MonoBehaviour {
         tf = GetComponent<Transform>();
     }
 
+    // Función que obtiene el color del objeto a partir de una cadena
     public Color toColor(string color) {
-        // Obtención del objeto color a partir de una cadena
         return (Color)typeof(Color).GetProperty(color.ToLowerInvariant()).GetValue(null, null);
     }
 

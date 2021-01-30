@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-// Clase que activa los muros fantasma del laberinto
+// Clase que activa los muros deslizantes del laberinto
 public class labyrinthGhostWalls : MonoBehaviour {   
     public GameObject door;
 

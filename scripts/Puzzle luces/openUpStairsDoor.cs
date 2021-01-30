@@ -5,6 +5,7 @@ using UnityEngine.SceneManagement;
 
 // Clase que controla el puzzle de luces para acceder a la habitación superior
 public class openUpStairsDoor : MonoBehaviour {
+    // Cogemos el script con el delegado
     private ChangeColorLight scriptColor;
     private bool isOpen;
     public Animator transition;
@@ -13,12 +14,13 @@ public class openUpStairsDoor : MonoBehaviour {
 
     void Start() { 
         scriptColor = GameObject.Find("CameraPlayer").GetComponent<ChangeColorLight>();
-        scriptColor.doorEvent += openDoor; // suscribimos el método al delegado que se lanzará cuando el puzzle sea resuelto
+        scriptColor.doorEvent += openDoor; // Suscribimos el método al delegado que se lanzará cuando el puzzle sea resuelto
         isOpen = false;
         saveSceneObject = GameObject.Find("RestaurarEscena");
         saveScene = saveSceneObject.GetComponent<restoreScene>();
     }
 
+    // Función indica que la puerta está abierta
     void openDoor() { 
         isOpen = true;
     }
@@ -31,6 +33,7 @@ public class openUpStairsDoor : MonoBehaviour {
         }
     }
 
+    // Función que carga el siguiente nivel con una transición
     IEnumerator loadLevelWithTransition(int levelIndex) {
         transition.SetTrigger("Start");
         yield return new WaitForSeconds(2f);

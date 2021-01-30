@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-// Clase que nos permite obtener los datos y manejar la brújula
+// Clase que nos permite obtener los datos para manejar la brújula
 public class compassSensor : MonoBehaviour {
 
 	float lastData = 0;

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-// Esta clase permite recoger y dejar el compass es su ubicación
+// Clase que permite recoger y dejar el compass es su ubicación
 public class pickCompass : MonoBehaviour {
     RaycastHit hit;
     Transform tf;

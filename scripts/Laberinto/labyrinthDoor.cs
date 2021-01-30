@@ -2,7 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-// Clase que ejecuta la animación al entrar al laberinto y enciende la luz del personaje
+// Clase que ejecuta la animación de cerrar la puerta al entrar al laberinto 
+// y enciende la luz del personaje
 public class labyrinthDoor : MonoBehaviour {
     public GameObject door;
     public Light playerLight;

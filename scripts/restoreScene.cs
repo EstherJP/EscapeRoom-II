@@ -24,7 +24,6 @@ public class restoreScene : MonoBehaviour {
         player = GameObject.Find("Player");
         labyrinthDoor = GameObject.Find("ParedLaberinto");
 
-
         // Recuperamos la posición del jugador 
         if (PlayerPrefs.GetInt("reapareceArriba") == 1) 
             player.GetComponent<Transform>().position = new Vector3(48.7f, 21.7f, 1.4f);
@@ -59,7 +58,7 @@ public class restoreScene : MonoBehaviour {
         }
     }
 
-    // Método qeu al ser llamado almacena toda la información de la escena
+    // Método que al ser llamado almacena toda la información de la escena
     public void saveSceneState() {
         PlayerPrefs.SetInt("reapareceArriba", 1); // Si el jugado ha subido siempre reaparecerá arriba. No hay más cambios de escena
         PlayerPrefs.SetInt("gravedadCuadro", picture.GetComponent<Rigidbody>().useGravity? 1 : 0);
