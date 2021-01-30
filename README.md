@@ -165,6 +165,7 @@ Adicionalmente, se han implementado diferentes mecánicas impartidas en clase m�
     - Controlar menú
     - Cambios de escena 
     - Luces de las lámparas con el interruptor
+    - Guardado en memoria del estado de la escena principal
     - Abrir candado
 
   - Assets usados:
