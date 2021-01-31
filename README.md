@@ -87,7 +87,7 @@ Adicionalmente, se han implementado diferentes mecánicas impartidas en clase m�
 
 - Cambios de escenas suaves:
 
-  ![alt_text](https://github.com/EstherJP/ScapeRoom-II/blob/main/gifs/cambioEscena.gif)
+  ![alt_text](https://github.com/EstherJP/EscapeRoom-II/blob/main/gifs/cambioEscena.gif)
 
 - Luces habitación de arriba (delegados):
 
