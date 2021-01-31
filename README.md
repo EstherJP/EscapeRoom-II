@@ -182,3 +182,5 @@ Adicionalmente, se han implementado diferentes mecánicas impartidas en clase m�
 ### Tareas desarrolladas en grupo
 
 - **Diseño y programación en Unity:** Todo el grupo
+
+## [Vídeo jugando desde el móvil](https://drive.google.com/file/d/1prYnel13ci89eFeRZejJx1ZBifZfrPwy/view?usp=sharing)
